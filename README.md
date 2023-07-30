@@ -32,8 +32,6 @@ Contributions are welcome! If you have any suggestions, bug fixes, or additional
 ## License
 This project is licensed under the [MIT License](LICENSE)
 
-A simple command-line scientific calculator written in C. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Additionally, it offers a range of scientific functions, including exponentiation, square root, sine, cosine, tangent, logarithm, factorial, and modulus.
-
 ## Features
 - Addition, Subtraction, Multiplication, and Division of two numbers
 - Exponentiation and Square Root of a given number
